@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center">Renan Machado</h1>
   <br>
-  <p align="center"> Recém formado em Análise e Desenvolvimento de Sistemas, busco aprender cada vez mais para me tornar apto para trabalhar em diversas áreas do mercado.
+  <p align="center"> Recém formado em Análise e Desenvolvimento de Sistemas e cursando Ciência da Computação, busco aprender cada vez mais para me tornar apto para trabalhar em diversas áreas do mercado.
   <div style="display: inline_block" align="center">
     <br>
     <img height=40px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
