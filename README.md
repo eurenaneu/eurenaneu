@@ -1,5 +1,6 @@
 <h1>Olá :)</h1>
 <p>Meu nome é Renan! Sou um desenvolvedor de 18 anos que ama resolver problemas complexos e aprender cada vez mais! Além de ser formado em Desenvolvimento de Sistemas pelo SENAI, estou cursando Ciência da Computação na UNIVALI. </p>
+
 <h2><b>Geralmente utilizo...</b></h2>
   <div>
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -16,7 +17,6 @@
     <img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=firebase&logoColor=ffca28" />
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   </div>
-
   <br>
   
   <h2><b>Estou aprendendo...</b></h2>
@@ -26,6 +26,7 @@
   </div>
   <br>
 
+  <br>
 <p>
-  <img height=200px src="https://github-readme-stats.vercel.app/api/top-langs/?username=eurenaneu&layout=compact&border_radius=5&theme=midnight-purple">
+  <img height=160px src="https://github-readme-stats.vercel.app/api/top-langs/?username=eurenaneu&layout=compact&border_radius=5&theme=midnight-purple">
 </p>
