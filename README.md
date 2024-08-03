@@ -1,5 +1,5 @@
 <h1>Seja bem-vindo :)</h1>
-<p>Olá, meu chamo Renan!<br><br>
+<p>Olá, me chamo Renan!<br><br>
 Sou um desenvolvedor backend completamente apaixonado por programação e que adora resolver problemas complexos! Estou sempre buscando aprender cada vez mais sobre novas tecnologias para me aprimorar como um profissional.<br><br>
 Aqui, no Github, você poderá encontrar meus projetos pessoais que demonstram minha dedicação e curiosidade pela área de desenvolvimento de software!</p>
 
