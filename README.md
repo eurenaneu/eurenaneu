@@ -1,6 +1,6 @@
 <h1>Seja bem-vindo :)</h1>
 <p>Olá, me chamo Renan!<br><br>
-Sou um desenvolvedor backend completamente apaixonado por programação e que adora resolver problemas complexos! Estou sempre buscando aprender cada vez mais sobre novas tecnologias para me aprimorar como um profissional.<br><br>
+Sou um desenvolvedor e estudante de Ciência da Computação completamente apaixonado pela programação e que adora resolver problemas complexos! Estou sempre buscando me aprimorar como profissional, aprendendo algo novo todo dia.<br><br>
 Aqui, no Github, você poderá encontrar meus projetos pessoais que demonstram minha dedicação e curiosidade pela área de desenvolvimento de software!</p>
 
 <h2><b>Minha stack</b></h2>
@@ -9,7 +9,9 @@ Aqui, no Github, você poderá encontrar meus projetos pessoais que demonstram m
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
     <img src="https://img.shields.io/badge/express-%23000.svg?style=for-the-badge&logo=express&logoColor=white" />
+    <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
     <img src="https://img.shields.io/badge/Insomnia-9060b5.svg?style=for-the-badge&logo=Insomnia&logoColor=white" />
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
