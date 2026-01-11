@@ -1,12 +1,14 @@
-<h1>Seja bem-vindo :)</h1>
-<p>Olá, me chamo Renan!<br><br>
-Sou um desenvolvedor e estudante de Ciência da Computação completamente apaixonado pela programação e que adora resolver problemas complexos! Estou sempre buscando me aprimorar como profissional, aprendendo algo novo todo dia.<br><br>
-Aqui, no Github, você poderá encontrar meus projetos pessoais que demonstram minha dedicação e curiosidade pela área de desenvolvimento de software!</p>
+<h1>Welcome :)</h1>
+<p>Hi, I'm Renan!<br><br>
+  I'm a back-end developer and undergraduate student in Computer Science, completely passionate about programming and who loves solving complex problems! I'm always looking to improve professionaly, learning something new everyday!<br><br>
+  Here, on GitHub, you'll find my personal projects that demonstrate my dedication and curiosity for software development.
+</p>
 
-<h2><b>Minha stack</b></h2>
+<h2><b>My technologies</b></h2>
   <div>
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+    <img src="https://img.shields.io/badge/Quarkus-121212?style=for-the-badge&logo=quarkus&logoColor=4695EB" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
